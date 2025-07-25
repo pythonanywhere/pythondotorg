@@ -7,5 +7,5 @@ group :media do
 end
 
 group :development do
-  gem "foreman", "~>0.61.0"
+  gem "foreman", "~> 0.62.0"
 end
